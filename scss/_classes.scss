@@ -1,0 +1,19 @@
+.title
+{
+    &-small{
+        letter-spacing: 0.5rem;
+        font-size: 1.9rem;
+    }
+}
+
+.text
+{
+    &-primary{
+        color: var(--primary);
+    }
+    &-hint{
+        color: var(--hint);
+    }
+}
+
+/*Cela nous permet d'avoir 2 classes TEXT PRIMARY et TEXT SECONDARY qui appliquent des couleurs différentes*/

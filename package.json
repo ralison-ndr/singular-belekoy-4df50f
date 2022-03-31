@@ -1,0 +1,23 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.43.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralison-ndr/htmlcss-chapitre13-netlify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ralison-ndr/htmlcss-chapitre13-netlify/issues"
+  },
+  "homepage": "https://github.com/ralison-ndr/htmlcss-chapitre13-netlify#readme",
+  "description": ""
+}
